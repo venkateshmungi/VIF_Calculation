@@ -12,7 +12,7 @@ Where:
 4.	Interpret the VIF values: VIF values are used to assess the degree of multicollinearity. Generally, a VIF value of 1 indicates no multicollinearity (perfectly uncorrelated variables), while larger values indicate increasing levels of multicollinearity. A common rule of thumb is that a VIF above 5-10 suggests high multicollinearity and should be a cause for concern.
 
 
-### Iference
+### Inference
 
 The Variance Inflation Factor (VIF) measures the extent to which the variance of an estimated regression coefficient is increased due to multicollinearity. Higher VIF values suggest a higher degree of multicollinearity, which can make it challenging to interpret the effects of individual variables in a regression model.
 
